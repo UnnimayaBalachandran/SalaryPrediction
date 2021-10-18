@@ -1,7 +1,7 @@
 
 # Salary Predictions based on Job descriptions
 
-![image](https://user-images.githubusercontent.com/54531542/137821441-f10ebfd7-ce3b-4302-a1f8-8b775b1bcdc1.png)
+![image](https://user-images.githubusercontent.com/54531542/137821534-5f6f22b6-13bd-4204-89fe-fedd0fc630a8.png)
 
 
 
