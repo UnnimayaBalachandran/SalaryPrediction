@@ -1,6 +1,9 @@
 
 # Salary Predictions based on Job descriptions
 
+![image](https://user-images.githubusercontent.com/54531542/137821295-1f4bd863-4924-4925-983d-9120d1354bfa.png)
+
+
 ### Problem Definition:
 
 The purpose of this project is to predict the salary based on various factors like jobtype, degree, subject major in terms of education, type of industry, years of experience and miles from metropolis.
