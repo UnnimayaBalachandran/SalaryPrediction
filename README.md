@@ -64,13 +64,13 @@ The higher the degree level the higher the salary is, eg Doctoral have higher sa
 
 ### Salary versus major
 
-[(https://github.com/UnnimayaBalachandran/SalaryPrediction/blob/main/Project_Images/salary_vs_major.png)]
+![image](https://user-images.githubusercontent.com/54531542/137821089-6dbea487-295b-4297-9459-fc84a40381cb.png)
 
 Technical major have higher average salary
 
 ### Salary versus industry
 
-[(https://github.com/UnnimayaBalachandran/SalaryPrediction/blob/main/Project_Images/salary_vs_industry.png)]
+![image](https://user-images.githubusercontent.com/54531542/137821116-bf923e33-7fdd-4106-bf85-8ecf052bc2d2.png)
 
 Oil, web and finance industry seems to have higher salary
 
@@ -82,7 +82,7 @@ Performed one-hot encoding for nominal categorical variable like jobType, major 
 
 Most of the features are positively correlated with the target variable salary and there is no evidence of muticollinearlity of correlation > 0.9, whereas milesFromMetropolis is negatively correlated with Salary.
 
-https://github.com/UnnimayaBalachandran/SalaryPrediction/blob/main/Project_Images/correlation.png
+![image](https://user-images.githubusercontent.com/54531542/137821152-bdb8003b-a5bf-49ca-b43d-0d75cec893fc.png)
 
 ## Regression Models:
 
@@ -117,6 +117,6 @@ The salary is predicted after learning the data from the trained dataset. Predic
 
 ### Feature Importance
 
-[(https://github.com/UnnimayaBalachandran/SalaryPrediction/blob/main/Project_Images/feature_importance.png)]
+![image](https://user-images.githubusercontent.com/54531542/137821174-5abe6908-2c47-45a8-b546-9732ec7f26a8.png)
 
 Upon extracting our feature importance bar graph, we can see that years of experience and miles from metropolis are two of the most important features in predicting salaries. Why is this important? Well, knowing this information allows to adjust our features so that we may inprove our models.
