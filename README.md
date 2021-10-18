@@ -54,7 +54,7 @@ Performed explanatory data analysis to learn more about the relation between eac
 ### Salary versus jobType
 
 
-[(https://github.com/UnnimayaBalachandran/SalaryPrediction/blob/main/Project_Images/salary_vs_jobType.png)
+https://github.com/UnnimayaBalachandran/SalaryPrediction/blob/main/Project_Images/salary_vs_jobType.png?raw=true
 
   The c-type job like CEO, CTO, CFO have higher average salary and the order goes down.
 ### Salary versus degree
