@@ -59,8 +59,7 @@ Performed explanatory data analysis to learn more about the relation between eac
   The c-type job like CEO, CTO, CFO have higher average salary and the order goes down.
 ### Salary versus degree
 
-[(https://github.com/UnnimayaBalachandran/SalaryPrediction/blob/main/Project_Images/salary_vs_degree.png)]
-
+![image](https://user-images.githubusercontent.com/54531542/137820387-6ccbc891-3d14-4e59-bcad-b0fb453c496a.png)
 The higher the degree level the higher the salary is, eg Doctoral have higher salary though it all depends on field, industry and jobType, the visualization just implies how educational level infuence the salary.
 
 ### Salary versus major
